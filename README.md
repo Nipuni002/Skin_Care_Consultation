@@ -1,6 +1,6 @@
 # Skin_Care_Consultation
 
-Project Highlight: Skin Care Consultation Website
+A full-stack web application designed to provide smart, user-friendly, and efficient skin care consultation services. This platform combines AI technology, progress tracking, appointment management, and blog content to deliver a complete skincare solution.
 
 🔹 Key Features:
 ✅ User Management
