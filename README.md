@@ -5,16 +5,25 @@ This is my own personal project, fully designed and developed by me, to create a
 
 🔹 Key Features:
 ✅ User Management
+
 ✅ AI-powered Skin Consultation Chatbot
+
 ✅ Weekly Skin Progress Tracking with visual reports
+
 ✅ Appointment Booking Management
+
 ✅ Blog Post Management
+
 ✅ Employee Management
+
+
 ✅ Report Generation for data-driven insights
 
 🛠️ Tech Stack:
 Backend: Spring Boot (Java)
+
 Frontend: React
+
 Database: MySQL
 
 This project allowed me to integrate intelligent user interaction, automate business workflows, and deliver a seamless, responsive, and scalable web experience.
