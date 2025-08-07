@@ -10,47 +10,47 @@ A fully designed and developed personal full-stack web application that delivers
 
 🤖 AI-Powered Skin Consultation Chatbot
 
-Integrated chatbot using NLP to assist users with skin-related queries and product suggestions.
+- Integrated chatbot using NLP to assist users with skin-related queries and product suggestions.
 
 📈 Weekly Skin Progress Tracking
 
-Users can upload weekly skin images and track changes with visual data and automated reporting.
+- Users can upload weekly skin images and track changes with visual data and automated reporting.
 
 📅 Appointment Booking System
 
-Manage consultations and track appointment schedules efficiently.
+- Manage consultations and track appointment schedules efficiently.
 
 📝 Blog Management System
 
-Add, edit, and publish skincare-related blog posts to engage and educate users.
+- Add, edit, and publish skincare-related blog posts to engage and educate users.
 
 👥 Employee Management
 
-Admin portal to manage staff profiles, roles, and responsibilities.
+- Admin portal to manage staff profiles, roles, and responsibilities.
 
 📊 Report Generation
 
-Generate detailed reports for users and admins to support decision-making and skin analysis.
+- Generate detailed reports for users and admins to support decision-making and skin analysis.
 
 🛠️ Tech Stack
 
-Frontend: React.js (with responsive UI/UX components)
+-  Frontend: React.js (with responsive UI/UX components)
 
-Backend: Spring Boot (Java, REST APIs)
+- Backend: Spring Boot (Java, REST APIs)
 
-Database: MySQL (Relational DB for structured data)
+- Database: MySQL (Relational DB for structured data)
 
 🎯 Project Goals
 
-This project was built to:
+- This project was built to:
 
-Integrate AI-driven user interaction
+- Integrate AI-driven user interaction
 
-Enable automated business workflows for skincare services
+- Enable automated business workflows for skincare services
 
-Provide a scalable, secure, and responsive web solution
+- Provide a scalable, secure, and responsive web solution
 
-Showcase strong skills in full-stack development, database design, and backend logic implementation
+- Showcase strong skills in full-stack development, database design, and backend logic implementation
 
 
 
