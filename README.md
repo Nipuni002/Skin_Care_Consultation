@@ -6,7 +6,7 @@ A fully designed and developed personal full-stack web application that delivers
 
 ✅ User Authentication & Management
 
-Secure user registration, login, and role-based access control.
+- Secure user registration, login, and role-based access control.
 
 🤖 AI-Powered Skin Consultation Chatbot
 
