@@ -1,4 +1,4 @@
-# Smart Skin Care Consultation Platform – Full Stack Personal Project
+# 🚀 Smart Skin Care Consultation Platform – Full Stack Personal Project
 
 A fully designed and developed personal full-stack web application that delivers intelligent skincare consultation and management services. This platform combines AI technology, data-driven insights, and modern UI/UX to create a seamless and efficient experience for both users and administrators.
 
